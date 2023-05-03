@@ -1,1 +1,9 @@
-https://www.kaggle.com/datasets/karkavelrajaj/imdb-top-250-movies?select=movies.csv
+https://www.kaggle.com/datasets/karkavelrajaj/imdb-top-250-movies?select=movies.csv\
+
+
+1. plot a graph to show the distribution of genre in the top 250 movies 
+2. find out which movie has the maximum number of votes and which genre it belongs to.
+3. find out which movie has the minimum number of votes and which genre it belongs to.
+4. find out movies of each genre which has maximum number of votes. 
+
+
